@@ -1,5 +1,5 @@
 ﻿
-using ConsoleApp;
+
 using MyLibrary;
 
 Employee Nicol = new Secretary();
